@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shankarvishnu/Desktop/code/MLOps/MLFlow/mlruns/857163537668241456/12305816f58d42be8dc3fbe110c159ec/artifacts
+end_time: 1744918303843
+entry_point_name: ''
+experiment_id: '857163537668241456'
+lifecycle_stage: active
+run_id: 12305816f58d42be8dc3fbe110c159ec
+run_name: KNN
+run_uuid: 12305816f58d42be8dc3fbe110c159ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744918301467
+status: 3
+tags: []
+user_id: shankarvishnu

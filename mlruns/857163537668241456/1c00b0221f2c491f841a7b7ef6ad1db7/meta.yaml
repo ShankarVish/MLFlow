@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shankarvishnu/Desktop/code/MLOps/MLFlow/mlruns/857163537668241456/1c00b0221f2c491f841a7b7ef6ad1db7/artifacts
+end_time: 1744917892659
+entry_point_name: ''
+experiment_id: '857163537668241456'
+lifecycle_stage: active
+run_id: 1c00b0221f2c491f841a7b7ef6ad1db7
+run_name: hyperparameter_run_7
+run_uuid: 1c00b0221f2c491f841a7b7ef6ad1db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744917890967
+status: 3
+tags: []
+user_id: shankarvishnu

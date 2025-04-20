@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shankarvishnu/Desktop/code/MLOps/MLFlow/mlruns/857163537668241456/30acd03bc54545ffb74cbd9b9dd47202/artifacts
+end_time: 1744914766745
+entry_point_name: ''
+experiment_id: '857163537668241456'
+lifecycle_stage: active
+run_id: 30acd03bc54545ffb74cbd9b9dd47202
+run_name: gentle-hare-1000
+run_uuid: 30acd03bc54545ffb74cbd9b9dd47202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744914764631
+status: 3
+tags: []
+user_id: shankarvishnu
